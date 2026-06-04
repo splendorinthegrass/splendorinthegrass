@@ -11,7 +11,7 @@ Canadian builder. Polymath by accident. 128-year plan.
 
 **Yennah** — A structurally truthful voxel solar system.
 12 celestial bodies. Real elevation data. Dual-grid
-quantum/classical architecture. Built to walk through,
+macro/micro architecture. Built to walk through,
 not just look at.
 
 **MoXai** — Mixture of eXperiences. A novel KV-cache
